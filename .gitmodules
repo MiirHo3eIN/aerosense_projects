@@ -4,3 +4,6 @@
 [submodule "Electronic/aero_time_synchronized_paper"]
 	path = Electronic/aero_time_synchronized_paper
 	url = git@github.com:MiirHo3eIN/aero_time_synchronized_paper.git
+[submodule "gateway/aero_gateway_commands"]
+	path = gateway/aero_gateway_commands
+	url = git@github.com:MiirHo3eIN/aero_gateway_commands.git
