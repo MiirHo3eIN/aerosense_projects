@@ -1,0 +1,6 @@
+[submodule "Electronic/aero_battery_modelling"]
+	path = Electronic/aero_battery_modelling
+	url = git@github.com:MiirHo3eIN/aero_battery_modelling.git
+[submodule "Electronic/aero_time_synchronized_paper"]
+	path = Electronic/aero_time_synchronized_paper
+	url = git@github.com:MiirHo3eIN/aero_time_synchronized_paper.git
