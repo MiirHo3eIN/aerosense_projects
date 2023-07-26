@@ -7,3 +7,9 @@
 [submodule "gateway/aero_gateway_commands"]
 	path = gateway/aero_gateway_commands
 	url = git@github.com:MiirHo3eIN/aero_gateway_commands.git
+[submodule "electronics/aero_time_synchronized_paper"]
+	path = electronics/aero_time_synchronized_paper
+	url = git@github.com:MiirHo3eIN/aero_time_synchronized_paper.git
+[submodule "electronics/aero_battery_modelling"]
+	path = electronics/aero_battery_modelling
+	url = git@github.com:MiirHo3eIN/aero_battery_modelling.git
