@@ -13,3 +13,6 @@
 [submodule "electronics/aero_battery_modelling"]
 	path = electronics/aero_battery_modelling
 	url = git@github.com:MiirHo3eIN/aero_battery_modelling.git
+[submodule "data_analysis/aero_statistic_features"]
+	path = data_analysis/aero_statistic_features
+	url = git@github.com:MiirHo3eIN/aero_statistic_features.git
