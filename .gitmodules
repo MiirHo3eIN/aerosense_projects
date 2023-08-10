@@ -16,3 +16,6 @@
 [submodule "data_analysis/aero_statistic_features"]
 	path = data_analysis/aero_statistic_features
 	url = git@github.com:MiirHo3eIN/aero_statistic_features.git
+[submodule "data_analysis/aero_autoencoder"]
+	path = data_analysis/aero_autoencoder
+	url = git@github.com:MiirHo3eIN/aero_autoencoder.git
