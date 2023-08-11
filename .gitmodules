@@ -19,3 +19,6 @@
 [submodule "data_analysis/aero_autoencoder"]
 	path = data_analysis/aero_autoencoder
 	url = git@github.com:MiirHo3eIN/aero_autoencoder.git
+[submodule "data_analysis/aero_mini_rocket"]
+	path = data_analysis/aero_mini_rocket
+	url = git@github.com:MiirHo3eIN/aero_mini_rocket.git
